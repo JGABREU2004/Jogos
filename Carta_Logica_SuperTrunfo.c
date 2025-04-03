@@ -168,7 +168,7 @@ case 2: // regra do jogo
 case 3: // sair do jogo
     printf("Sair do jogo\n");
     break;
-default: // Escolha um néumero de 1 a 3
+default: // Escolha um número de 1 a 3
     printf("Opção inválida!\n");
     break;
 }          
