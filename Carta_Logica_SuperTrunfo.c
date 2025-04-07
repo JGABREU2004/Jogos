@@ -243,7 +243,7 @@ case 1: // Comparando as cartas
         } 
 // deu empate
         else {
-            printf("Empate!\n"); 
+            printf("Deu empate!\n"); 
         }    
 break;
 case 2: // regra do jogo
